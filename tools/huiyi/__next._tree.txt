@@ -1,3 +1,0 @@
-:HL["/feiyi/_next/static/chunks/c2820203bd0b6224.css","style"]
-:HL["/feiyi/_next/static/chunks/f2e2c75f3e31d4e7.css","style"]
-0:{"buildId":"aXd0Ib-dAQLIDGFmt2LpN","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"tools","paramType":null,"paramKey":"tools","hasRuntimePrefetch":false,"slots":{"children":{"name":"huiyi","paramType":null,"paramKey":"huiyi","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
